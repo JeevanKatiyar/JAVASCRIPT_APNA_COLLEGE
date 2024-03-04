@@ -1,0 +1,48 @@
+
+.main {
+    display: flex;
+    background-color: rgb(224, 204, 177);
+   
+    border-radius: 20px;
+    border: 20px solid rgb(49, 46, 46)
+
+}
+h2{
+    text-transform: uppercase;
+}
+
+.mainright{
+    display:block;
+    margin: 10px;
+    text-align:justify;
+
+}
+
+.sub{
+    display: flex;
+}
+
+
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    padding: 40px;
+
+}
+
+.left{
+
+}
+
+.right{
+    
+    margin-top: 25px;
+    margin-left: 25px;
+    ;
+}
+
+#B_one, #B_two, #B_three {
+    background-color: rgba(100, 38, 17, 0.574);
+}
+
