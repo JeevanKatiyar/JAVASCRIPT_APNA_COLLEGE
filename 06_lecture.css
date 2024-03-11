@@ -1,0 +1,23 @@
+h1{
+    color: brown;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline 5px;;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.one{
+    background-color: rgb(1, 10, 10);
+    color: antiquewhite;
+}
+
+.two{
+    background-color: blue;
+    color: antiquewhite;
+    /* width: 100px;
+    height: 100px; */
+    border-radius: 50px;
+}
